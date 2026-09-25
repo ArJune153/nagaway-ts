@@ -1,6 +1,6 @@
 <template>
   <div class="container-home">
-    <img class="img-logo" :src="require('@/assets/c3ff7ed1-5717-43b7-869f-56f67ba7cb0b.png')" alt="Background Image"/>
+    <img class="img-logo" :src="require('@/assets/Zova.png')" alt="Background Image"/>
     <div>    
       <span class="text1">เว็บตรงแท้ จากต่างประเทศ 100%</span>
       <br><b class="text2">✨การันตีผู้ใช้งานจริงนับล้านยูสเซอร์ ลูกค้าใหม่ เพิ่มอัตราการชนะ ทันที !!</b>
@@ -147,9 +147,10 @@ export default {
       onlineCount6: "13,254",
       onlineCountAll: "149,631",
       slides: [
-        { src: 'photo_6176799786905226231_y.jpg', alt: 'Image 3' },
-        { src: 'aaa.jpg', alt: 'Image 1' },
-        { src: 'aaaa.jpg', alt: 'Image 2' },      
+        { src: 'P1.jpg', alt: 'Image 3' },
+        { src: 'P2.jpg', alt: 'Image 1' },
+        { src: 'P3.jpg', alt: 'Image 2' },    
+        { src: 'P4.jpg', alt: 'Image 4' },   
       ],
       topUsersData : [
       { userName: "nagaa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
@@ -635,9 +636,7 @@ body {
 
 /* สไตล์สำหรับรูป */
 .img-logo {
-  max-width: 40%;
-  filter: drop-shadow(0 0 20px rgb(0, 255, 106));
-  margin-bottom: 3rem;
+  max-width: 75%;
 }
 
 /* ข้อความที่กระพริบ */
@@ -727,7 +726,7 @@ body {
 
   @media (min-width: 500px) {
   .img-logo{
-    width: 20%;
+    width: 23%;
   }
   }
 
