@@ -7,7 +7,7 @@
     </div>
     <div class="button-container">
     <a href="https://lin.ee/ocZDQDDA" class="custom-button1">
-        ✨
+        <i class="fas fa-user-plus"></i>
         สมัครสมาชิก
     </a>
 </div>
