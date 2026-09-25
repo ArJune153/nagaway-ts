@@ -153,30 +153,30 @@ export default {
         { src: 'P4.jpg', alt: 'Image 4' },   
       ],
       topUsersData : [
-      { userName: "nagaa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "nagab89xx", amount: "130,500", timestamp: "31 ส.ค. 2568" },
-      { userName: "nagae11xx", amount: "95,200", timestamp: "31 ส.ค. 2568" },
-      { userName: "nagad04xx", amount: "83,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "nagae87xx", amount: "82,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "nagae35xx", amount: "78,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "zovaa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "zovab89xx", amount: "130,500", timestamp: "31 ส.ค. 2568" },
+      { userName: "zovae11xx", amount: "95,200", timestamp: "31 ส.ค. 2568" },
+      { userName: "zovad04xx", amount: "83,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "zovae87xx", amount: "82,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "zovae35xx", amount: "78,000", timestamp: "31 ส.ค. 2568" },
     ],
     reviews : [
-      { user: "nagaj23xx", text: "เว็บนี้ใช้งานง่าย ถอนเงินไวมาก", img: "photo-2568-06-02-13-24-49.jpg" },
-      { user: "nagas16xx", text: "แตกหนักจนแฟนงง ว่าไปเอาเงินมาจากไหน", img: "photo-2568-06-21-13-38-31.jpg" },
-      { user: "nagae56xx", text: "ระบบดี ไม่มีสะดุดเลย", img: "photo-2568-06-02-13-11-47.jpg" },
-      { user: "nagax88xx", text: "โปรโมชั่นคุ้มสุด ๆ เลยครับ", img: "503804955-122126012606831043-7044484449309087338-n.jpg" },
-      { user: "nagao16xx", text: "เล่นง่าย ได้เงินจริง", img: "490506081-122124348278773654-1591748651281217225-n.jpg" },
-      { user: "nagad41xx", text: "แตกจริง! ไม่ต้องลุ้นเลย เงินเข้าไวสุด ๆ 💸", img: "533961598_1465905681078900_8473607776528464666_n.jpg" },
-      { user: "nagad41xx", text: "จากหลักร้อยเป็นหลักหมื่นในคืนเดียว ว้าว!", img: "464195162_2477566235772141_6809220135929060331_n.jpg" },
-      { user: "nagab71xx", text: "รองรับ TrueWallet ด้วย สะดวกมาก", img: "504143319_2219977065123389_83092695142278008_n.jpg" },
-      { user: "nagat94xx", text: "แนะนำเพื่อน ได้โบนัสด้วย", img: "492242625_668943662417215_4482917277835435921_n.jpg" },
-      { user: "nagal68xx", text: "ดีตรงที่มีภาษาไทยครบถ้วน", img: "518366934_736143816025493_1299983234092703859_n.jpg" },
-      { user: "nagat28xx", text: "ฝากปุ๊บเงินเข้าปั๊บ", img: "533084719_1116500603710911_5818853113959217185_n.jpg" },
-      { user: "nagao71xx", text: "แทบจะถอนทุกวัน ดีจริงๆเว็บนี้!", img: "277169807-3163265690584017-8353788208641286173-n.jpg" },
-      { user: "nagaj88xx", text: "ชอบมีไลฟ์สดบอลให้ดูฟรี", img: "432694438-933306371801755-6605376483802637949-n.jpg" },
-      { user: "nagaq38xx", text: "ทีมซัพพอร์ตดูแลดีมาก", img: "444482004_7798764536813604_3664008989486408448_n.md.jpg" },
-      { user: "nagaz65xx", text: "อัตราต่อรองแฟร์สุด ๆ", img: "499992981-543532548818863-8863283426458467040-n.jpg" },
-      { user: "nagaf86xx", text: "ถอนวันละพันทุกวัน แทบไม่ต้องทำงาน", img: "503202164-2075152429640793-785701917046162087-n.jpg" },
+      { user: "zovaj23xx", text: "เว็บนี้ใช้งานง่าย ถอนเงินไวมาก", img: "photo-2568-06-02-13-24-49.jpg" },
+      { user: "zovas16xx", text: "แตกหนักจนแฟนงง ว่าไปเอาเงินมาจากไหน", img: "photo-2568-06-21-13-38-31.jpg" },
+      { user: "zovae56xx", text: "ระบบดี ไม่มีสะดุดเลย", img: "photo-2568-06-02-13-11-47.jpg" },
+      { user: "zovax88xx", text: "โปรโมชั่นคุ้มสุด ๆ เลยครับ", img: "503804955-122126012606831043-7044484449309087338-n.jpg" },
+      { user: "zovao16xx", text: "เล่นง่าย ได้เงินจริง", img: "490506081-122124348278773654-1591748651281217225-n.jpg" },
+      { user: "zovad41xx", text: "แตกจริง! ไม่ต้องลุ้นเลย เงินเข้าไวสุด ๆ 💸", img: "533961598_1465905681078900_8473607776528464666_n.jpg" },
+      { user: "zovad41xx", text: "จากหลักร้อยเป็นหลักหมื่นในคืนเดียว ว้าว!", img: "464195162_2477566235772141_6809220135929060331_n.jpg" },
+      { user: "zovab71xx", text: "รองรับ TrueWallet ด้วย สะดวกมาก", img: "504143319_2219977065123389_83092695142278008_n.jpg" },
+      { user: "zovat94xx", text: "แนะนำเพื่อน ได้โบนัสด้วย", img: "492242625_668943662417215_4482917277835435921_n.jpg" },
+      { user: "zoval68xx", text: "ดีตรงที่มีภาษาไทยครบถ้วน", img: "518366934_736143816025493_1299983234092703859_n.jpg" },
+      { user: "zovat28xx", text: "ฝากปุ๊บเงินเข้าปั๊บ", img: "533084719_1116500603710911_5818853113959217185_n.jpg" },
+      { user: "zovao71xx", text: "แทบจะถอนทุกวัน ดีจริงๆเว็บนี้!", img: "277169807-3163265690584017-8353788208641286173-n.jpg" },
+      { user: "zovaj88xx", text: "ชอบมีไลฟ์สดบอลให้ดูฟรี", img: "432694438-933306371801755-6605376483802637949-n.jpg" },
+      { user: "zovaq38xx", text: "ทีมซัพพอร์ตดูแลดีมาก", img: "444482004_7798764536813604_3664008989486408448_n.md.jpg" },
+      { user: "zovaz65xx", text: "อัตราต่อรองแฟร์สุด ๆ", img: "499992981-543532548818863-8863283426458467040-n.jpg" },
+      { user: "zovaf86xx", text: "ถอนวันละพันทุกวัน แทบไม่ต้องทำงาน", img: "503202164-2075152429640793-785701917046162087-n.jpg" },
     ],
     rwindex:0
     };
@@ -333,7 +333,7 @@ export default {
       const randomBankIndex = Math.floor(Math.random() * bankLogos.length);
       const randomDigits = Math.floor(Math.random() * 100).toString().padStart(2, '0');
       const randomChar = String.fromCharCode(Math.floor(Math.random() * 26) + 97);
-      const user = `naga${randomChar}${randomDigits}xx`;
+      const user = `zova${randomChar}${randomDigits}xx`;
 
       const now = new Date();
 
